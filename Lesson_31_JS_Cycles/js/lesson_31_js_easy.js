@@ -23,6 +23,7 @@ if (age > 0 && Number.isInteger(age)) {
 }
 else {
     alert(`A wrong age value. Reload the page and try again.`);
+    break;
 }
 
 // Point 2. Symbols
